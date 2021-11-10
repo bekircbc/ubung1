@@ -1,0 +1,27 @@
+
+p {background-image:url("paper.gif");background-color:#cccccc;}
+
+.myblog {display:inline; background-color: greenyellow; height:200px;
+width:200px; padding:10px; border:}
+
+.dino-info {
+    height: 700px;width:500px;
+    overflow:visible; display:inline-block; 
+    border: 3px solid rgb(176, 202, 137); padding:10px;
+
+}
+
+#dinos-info{ height:700px;width:500px;
+    overflow:visible;display:inline-block; 
+    background-color:rgb(176, 202, 137); 
+padding:10px
+}
+
+.dino-info-img {width:90%;align:center}
+
+.dinos-info-img {width:10%;height: 10%; float:left;}
+
+/*.esports-tournaments{height:24rem;display:block}
+
+.dota-tournament-img{width:22rem;float:left;padding: 0px 10px;}
+*/

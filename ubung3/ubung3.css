@@ -1,14 +1,14 @@
 
 .esport-info {
     height:22rem;width:26rem;border:1px dashed black;
-    overflow:scroll;display:inline-block;
+    overflow:scroll;display:inline-block; padding:5px;
 }
 
 .esports-info-img{height:15rem;width:26rem;}
 
-.esports-tournaments{height:24rem;display:block}
+.esports-tournaments{height:24rem}
 
-.dota-tournament-img{width:22rem;float:left;padding: 0px 10px;}
+.dota-tournament-img{width:26rem;float:left;padding: 0px 10px;}
 
 /* 
 .img{width:200px;height:300px;object-fit:cover}
