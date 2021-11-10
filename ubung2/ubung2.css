@@ -1,4 +1,9 @@
-div {color:red;height:200px;width:200px;border:20px dashed green;
-    margin:auto}
-.yellow{background-color:yellow}
-#green{background-color:green}
+div {background-color:red;height:200px;width:200px;border:10px dashed rgb(23, 27, 23);
+}
+.yellow{box-sizing:border-box;border:10 px solid blue;width:400px;padding:50px;background-color:yellow}
+#green{box-sizing:content-box;border:10px solid blue;width:400px;padding:50px;background-color:green}
+/*
+.block{display:block; margin:20px}
+.inline-block{display:inline-block}
+.inline{display:inline}
+*/

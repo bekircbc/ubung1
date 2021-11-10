@@ -1,7 +1,7 @@
 body{font-family:"Roboto", sans-serif}
 .header {height:100vh;width:100vw;}
 .header_img {width:100%; height :100%;border-radius:0 px 100 px; opacity:0.5}
-.container {width: 80%; margin:auto;}
+.container {width: 80%; margin:auto;background-image:-moz-linear-gradient()}
 
 /*.header {height:70vh;width:70vw;margin:auto;}
 .header_img {width:100%; height :100%; border-radius:0px 100px;}

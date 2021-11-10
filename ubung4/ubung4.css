@@ -1,0 +1,22 @@
+
+p {background-image:url("paper.gif");background-color:#cccccc;}
+
+.dino-info {
+    height: 43rem;width:26rem;
+    overflow:visible;display:block; padding:10px;
+}
+
+#dinos-info{    height: 43rem;width:26rem;
+    overflow:visible;display:block; 
+    background-color:rgb(176, 202, 137); 
+padding:10px;
+}
+
+.dino-info-img {width:100%;align:center}
+
+.dinos-info-img {width:10%;height: 10%; float:left;}
+
+/*.esports-tournaments{height:24rem;display:block}
+
+.dota-tournament-img{width:22rem;float:left;padding: 0px 10px;}
+*/
